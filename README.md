@@ -1,1 +1,1 @@
-# quest-submission
+# quest-submissions
